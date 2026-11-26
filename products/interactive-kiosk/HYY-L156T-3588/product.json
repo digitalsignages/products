@@ -1,0 +1,166 @@
+{
+  "model": "HYY-L156T-3588",
+  "brand": "EELLNET",
+  "name": {
+    "en": "HYY-L156T-3588 15.6-Inch Countertop Touch Kiosk with Rockchip RK3588",
+    "zh": "HYY-L156T-3588 15.6英寸桌面式触控一体机（搭载Rockchip RK3588）"
+  },
+  "category": {
+    "key": "interactive-kiosk",
+    "en": "Interactive Kiosks",
+    "zh": "触摸一体机"
+  },
+  "url": {
+    "en": "https://www.demo-furniture.test/products/interactive-kiosk/hyy-l156t-3588-countertop-touch-kiosk?utm_source=github&utm_medium=referral&utm_campaign=products",
+    "zh": "https://www.demo-furniture.test/zh/products/interactive-kiosk/hyy-l156t-3588-countertop-touch-kiosk?utm_source=github&utm_medium=referral&utm_campaign=products"
+  },
+  "specs": {
+    "en": [
+      {
+        "key": "Screen Size",
+        "value": "15.6 inch"
+      },
+      {
+        "key": "Resolution",
+        "value": "1920×1080"
+      },
+      {
+        "key": "Aspect Ratio",
+        "value": "16:9"
+      },
+      {
+        "key": "Brightness",
+        "value": "300 nits"
+      },
+      {
+        "key": "Contrast Ratio",
+        "value": "1000:1"
+      },
+      {
+        "key": "Viewing Angle",
+        "value": "85/85/85/85(L/R/U/D) °"
+      },
+      {
+        "key": "Touch Type",
+        "value": "Capacitive Touch"
+      },
+      {
+        "key": "Operating System",
+        "value": "Linux"
+      },
+      {
+        "key": "CPU",
+        "value": "Rockchip RK3588, octa-core 64-bit big.LITTLE architecture: 4x Cortex-A76 + 4x Cortex-A55"
+      },
+      {
+        "key": "Memory (RAM)",
+        "value": "8G"
+      },
+      {
+        "key": "Storage",
+        "value": "128G"
+      },
+      {
+        "key": "Speakers",
+        "value": "2×2W"
+      },
+      {
+        "key": "Interfaces",
+        "value": "HDMI×1, USB2.0×1, USB3.0×1, RJ45×1, 3.5mm耳机×1, TF×1, DC电源口×1"
+      },
+      {
+        "key": "Power Supply",
+        "value": "12V/2A"
+      },
+      {
+        "key": "VESA Mount",
+        "value": "75×75 mm"
+      },
+      {
+        "key": "Installation",
+        "value": "Desktop"
+      },
+      {
+        "key": "Operating Temperature",
+        "value": "0~50 ℃"
+      }
+    ],
+    "zh": [
+      {
+        "key": "屏幕尺寸",
+        "value": "15.6 inch"
+      },
+      {
+        "key": "分辨率",
+        "value": "1920×1080"
+      },
+      {
+        "key": "屏幕比例",
+        "value": "16:9"
+      },
+      {
+        "key": "亮度",
+        "value": "300 nits"
+      },
+      {
+        "key": "对比度",
+        "value": "1000:1"
+      },
+      {
+        "key": "可视角度",
+        "value": "85/85/85/85(L/R/U/D) °"
+      },
+      {
+        "key": "触摸类型",
+        "value": "电容触摸"
+      },
+      {
+        "key": "操作系统",
+        "value": "Linux"
+      },
+      {
+        "key": "处理器",
+        "value": "Rockchip RK3588, octa-core 64-bit big.LITTLE architecture: 4x Cortex-A76 + 4x Cortex-A55"
+      },
+      {
+        "key": "内存",
+        "value": "8G"
+      },
+      {
+        "key": "存储",
+        "value": "128G"
+      },
+      {
+        "key": "喇叭",
+        "value": "2×2W"
+      },
+      {
+        "key": "接口",
+        "value": "HDMI×1, USB2.0×1, USB3.0×1, RJ45×1, 3.5mm耳机×1, TF×1, DC电源口×1"
+      },
+      {
+        "key": "电源",
+        "value": "12V/2A"
+      },
+      {
+        "key": "VESA 孔距",
+        "value": "75×75 mm"
+      },
+      {
+        "key": "安装方式",
+        "value": "桌面"
+      },
+      {
+        "key": "工作温度",
+        "value": "0~50 ℃"
+      }
+    ]
+  },
+  "images": [
+    "images/01-front.jpg",
+    "images/02-back.jpg",
+    "images/03-side.jpg",
+    "images/04-dimension.jpg",
+    "images/05-application.jpg"
+  ]
+}
