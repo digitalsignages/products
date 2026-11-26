@@ -1,19 +1,19 @@
-# HYY-TS-A3270-69 27 Inch Wall Mounted Interactive Kiosk with 2560*1440 IPS Touch Display
+# HYY-TS-A3270-69 27-Inch Wall Mounted Digital Signage Kiosk with Capacitive Touch and 2560 x 1440 IPS Display
 
-> Model: **HYY-TS-A3270-69** · Brand: EELLNET · [View on the official website](https://www.eellnet.com/products/interactive-kiosk/hyy-ts-a3270-69-wall-mounted-interactive-kiosk?utm_source=github&utm_medium=referral&utm_campaign=products)
+> Model: **HYY-TS-A3270-69** · Brand: EELLNET · [View on the official website](https://www.eellnetsignage.com/products/interactive-kiosk/hyy-ts-a3270-69-wall-mounted-digital-signage-kiosk?utm_source=github&utm_medium=referral&utm_campaign=products)
 
-![HYY-TS-A3270-69 27 Inch Wall Mounted Interactive Kiosk with 2560*1440 IPS Touch Display](images/01-front.jpg)
+![HYY-TS-A3270-69 27-Inch Wall Mounted Digital Signage Kiosk with Capacitive Touch and 2560 x 1440 IPS Display](images/01-front.jpg)
 
-The HYY-TS-A3270-69 is a 27 inch wall mounted interactive kiosk built around a 2560*1440 IPS panel with a 16:9 aspect ratio and capacitive touch. It runs on an Android platform with an RK3576 quad-core Cortex-A53 + Quad-core Cortex-A72 CPU, 4GB RAM and 32GB storage, and its bottom connection panel carries HDMI output, USB 3.0, USB 2.0, USB2.0 OTG, RJ45 Ethernet, a 3.5mm earphone jack and DC12V input. EELLNET builds this model for retail and hospitality projects, with OEM / ODM customization available from a single sample unit.
+The HYY-TS-A3270-69 is a 27-inch wall mounted digital signage kiosk built around a 2560 x 1440 IPS panel with a capacitive touch surface and the Android operating system. Its RK3576 processor, 4GB RAM and 32GB storage run content on the device itself, while HDMI, USB and RJ45 ports connect players, storage and a wired network. EELLNET builds the unit in Shenzhen and supports OEM/ODM customization, with a 1-year warranty on the whole unit.
 
 ## Highlights
 
-- **27 Inch 2560*1440 IPS Panel** — A 16:9 IPS screen at 300 nits brightness with a 1000:1 contrast ratio and a 178°(H/V) viewing angle, so graphics and text stay readable when viewers stand to either side of the unit.
-- **Capacitive Touch Control** — Visitors and staff operate the page directly on the 27 inch screen through capacitive touch, with no separate keyboard or mouse needed at the wall.
-- **Android Platform with RK3576 CPU** — Quad-core Cortex-A53 + Quad-core Cortex-A72 processing, 4GB RAM and 32GB storage support app-driven pages and locally stored content.
-- **Wall Mounted Installation** — The rear mounting plate fixes the unit flat against the wall, keeping floor area free in stores, receptions and corridors. Operating temperature is 0~40 ℃.
-- **Connection Panel for Peripherals** — HDMI output, USB 3.0, USB 2.0, USB2.0 OTG, RJ45 Ethernet, a 3.5mm earphone jack and DC12V input sit along the bottom edge for tidy cable routing.
-- **OEM / ODM Customization** — Mainboard, chip, storage, memory, touch and speaker options can be selected, and housing colour, size, startup screen, packaging and logo printing can be customized. Minimum order quantity is 1 unit, so a sample can be checked before a volume order.
+- **2560 x 1440 IPS panel** — The 27-inch 16:9 IPS panel runs at 2560 x 1440 with 300 nits brightness, a 1000:1 contrast ratio and 178/178 degree viewing angles, so the image holds up for viewers standing to the side.
+- **Capacitive touch control** — A capacitive touch layer covers the panel, so content is operated directly on the 27-inch screen instead of through a separate controller.
+- **Android on an RK3576 processor** — Quad-core Cortex-A53 plus quad-core Cortex-A72 processing with 4GB RAM and 32GB storage runs the Android operating system, giving integrators a base for their own content app.
+- **Wall mounted, 55.7 mm deep** — The enclosure measures 643.6 x 382 x 55.7 mm and is designed for wall mounting, which keeps the space below the screen clear.
+- **Ports for local players and wired networks** — HDMI x1, USB3.0 x1, USB2.0 x1, RJ45 x1, a 3.5 mm earphone jack and DC12V input cover local playback, a wired network link and audio output; two 5W speakers are built in.
+- **OEM / ODM from 1 unit** — Customize the mainboard, chip, memory, storage, touch, speakers, housing colour and size, operating system and startup screen, packaging and your logo. A sample order can be placed before bulk production, and the minimum order quantity is 1 unit.
 
 ## Specifications
 
@@ -25,80 +25,75 @@ The HYY-TS-A3270-69 is a 27 inch wall mounted interactive kiosk built around a 2
 | Panel Type | IPS |
 | Brightness | 300 nits |
 | Contrast Ratio | 1000：1 |
-| Viewing Angle | 178°(H/V) ° |
+| Viewing Angle | 178/178 ° |
 | Touch Type | Capacitive Touch |
 | Operating System | Android |
 | CPU | Quad-core Cortex-A53 + Quad-core Cortex-A72, RK3576 |
 | Memory (RAM) | 4GB |
 | Storage | 32GB |
 | Speakers | 2*5W |
-| Interfaces | HDMI output×1, USB 3.0×1, USB 2.0×1, USB2.0 OTG×1, RJ45 Ethernet×1, 3.5mm earphone×1, DC12V input |
+| Interfaces | HDMI×1, USB3.0×1, USB2.0×1, RJ45×1, 3.5mm earphone, DC12V input |
 | Power Supply | DC12V-5A input |
+| Dimensions | 643.6x382x55.7 mm |
 | Installation | Wall Mounted |
 | Operating Temperature | 0~40 ℃ |
 
 ## Use Cases
 
-- **Retail** — Mount the HYY-TS-A3270-69 on a wall in a store aisle or beside a product display to present item information, brand content and store announcements on a 27 inch 2560*1440 screen. Captive touch lets shoppers page through content themselves, while 32GB storage keeps the material on the device. RJ45 Ethernet supplies the wired network connection, and the 178°(H/V) viewing angle keeps the screen readable for shoppers approaching from the side.
-- **Hospitality** — In hotels and other hospitality venues, the unit can be wall mounted in a reception or lobby area for guest information, directions and announcements. The Android platform runs the on-screen pages, and 2*5W speakers add audio to the visual content. Wall mounting keeps the floor clear in busy entrances, and the 300 nits, 1000:1 IPS panel holds detail in indoor lighting conditions.
+- **Retail** — In shops, the unit is mounted on a wall near a product area to show ranges, promotions and store announcements on the 2560 x 1440 panel. Shoppers can use the capacitive touch layer to open the pages they need, so staff spend less time answering basic questions.
+- **Quick Service Restaurants (QSR)** — In quick service restaurants the screen can be mounted at the order counter or on the wall behind it to show item listings and daily offers. The 300 nits panel and 178/178 degree viewing angles keep the listing readable across the counter, and staff can switch content with the capacitive touch layer or the supplied remote control.
+- **Health Clinics** — Clinics and health centres use the screen in waiting areas for queue numbers, opening hours and announcements. Because the front is a capacitive touch surface and the content runs on Android, the same unit can present a simple check-in or wayfinding screen.
+- **Building Lobbies and Reception Areas** — In building lobbies and reception areas the screen can be mounted beside the entrance to show a tenant directory, opening hours and announcements on a 2560 x 1440 panel. An RJ45 port provides a wired network connection for the device.
 
 ## Product Details
 
-### 27 Inch 2560*1440 IPS Screen in a Black Bezel
+### Front view: slim bezel and a blank touch surface
 
-The front view shows the 27 inch display framed by a black bezel, sized for wall placement where space is limited. The panel runs at 2560*1440 resolution with a 16:9 aspect ratio, 300 nits brightness and a 1000:1 contrast ratio, and the 178°(H/V) viewing angle keeps the picture consistent for viewers standing off to the sides.
+The front of the HYY-TS-A3270-69 is a black 27-inch panel with a slim bezel, shown here with the screen at rest. Behind it is an IPS panel at 2560 x 1440 with a 16:9 aspect ratio, 300 nits brightness and a 1000:1 contrast ratio; the 178/178 degree viewing angles keep the image even for viewers who are not directly in front of the screen.
 
-![27 Inch 2560*1440 IPS Screen in a Black Bezel](images/02-front.jpg)
+![Front view: slim bezel and a blank touch surface](images/02-front.jpg)
 
-### Android Interface and App Access
+### Side ports: HDMI, USB, RJ45 and audio
 
-The home screen presents applications as icons on the touch surface, with the interface running on an Android operating system. The RK3576 platform pairs a Quad-core Cortex-A53 with a Quad-core Cortex-A72, backed by 4GB RAM and 32GB storage for the pages and content stored on the device.
+The angled rear view shows the port cluster at the side of the housing: HDMI x1, USB3.0 x1, USB2.0 x1, RJ45 x1, a 3.5 mm earphone jack and the DC12V input. Grouping them together simplifies cabling once the unit is on the wall.
 
-![Android Interface and App Access](images/03-front.jpg)
+![Side ports: HDMI, USB, RJ45 and audio](images/07-ports.jpg)
 
-### Wall Mounted Interactive Kiosk with Rear Plate and Speakers
+### Rear mounting plate between two 5W speakers
 
-The rear view shows the central mounting plate that the unit hangs from, the speaker grilles and the product label. This is a wall mounted model, so it sits flat against the wall, and the 2*5W speakers provide audio for announcements and promotional content shown on screen.
+The rear view shows the mounting plate fixed between the speaker grilles; this plate is the wall mounting point of the unit. The two built-in 5W speakers give the kiosk audio output for announcements and video content without extra hardware.
 
-![Wall Mounted Interactive Kiosk with Rear Plate and Speakers](images/04-back.jpg)
+### Dimensions: 643.6 x 382 x 55.7 mm
 
-### Dimension Drawing for Site Planning
+The dimension drawing sets out the front, side and rear layouts of the unit. The enclosure measures 643.6 x 382 x 55.7 mm, and the operating temperature range is 0~40 ℃.
 
-The technical drawing covers front, side and mounting views of the 27 inch unit. Installers can use it to confirm wall space, fixing positions and the clearance behind the screen before the kiosk arrives on site, which shortens the fitting stage of a retail or hospitality project.
-
-### Bottom Connection Panel and Interfaces
-
-The angled rear view shows the connection ports grouped along the bottom edge. The interface set is HDMI output×1, USB 3.0×1, USB 2.0×1, USB2.0 OTG×1, RJ45 Ethernet×1, 3.5mm earphone×1 and DC12V input, with power supplied by a DC12V-5A input.
+![Dimensions: 643.6 x 382 x 55.7 mm](images/05-dimension.jpg)
 
 ## FAQ
 
-**What is the minimum order quantity for the HYY-TS-A3270-69?**
+**What are the display specifications of the HYY-TS-A3270-69?**
 
-The minimum order quantity is 1 unit. A single sample can be ordered to verify quality before a larger production order, and OEM / ODM customization is available on the same basis.
+A 27-inch IPS panel with 2560 x 1440 resolution, 16:9 aspect ratio, 300 nits brightness, 1000:1 contrast ratio and 178/178 degree viewing angles.
 
-**What is the lead time?**
+**Which interfaces does the kiosk provide?**
 
-Lead time is around one month during peak season and within 15 working days in the off-season. Shipment is arranged by reliable carriers from Shenzhen.
+HDMI x1, USB3.0 x1, USB2.0 x1, RJ45 x1 and a 3.5 mm earphone jack. Power input is DC12V-5A.
 
-**What warranty comes with the unit?**
+**Can I order a customized version, and what is the minimum order quantity?**
 
-Every unit carries a 1 year warranty on the complete machine. Each device is also tested with a dedicated test APP and run through more than 4 hours of stress testing before it leaves the facility.
+Yes. OEM/ODM customization covers the mainboard, chip, memory, storage, touch, speakers, housing colour and size, operating system and startup screen, packaging and your logo. The minimum order quantity is 1 unit, and a sample order can be placed first to check quality.
 
-**Can the kiosk be customized for our brand?**
+**What is the lead time and the warranty?**
 
-Yes. Hardware options include mainboard, chip, storage, memory, touch and speakers; the housing colour and size can be customized; software options cover the operating system and startup screen; packaging and customer logo printing can also be customized.
+Lead time is about one month in peak season and within 15 working days off-season, EXW Shenzhen. The whole unit carries a 1-year warranty.
 
-**What are the power and operating conditions?**
+**How is the unit packed, and what is in the box?**
 
-The unit runs from a DC12V-5A input and is rated for an operating temperature of 0~40 ℃. Power is supplied through the DC12V input on the bottom connection panel.
-
-**Do you export to our region?**
-
-EELLNET has exported since July 2014 and currently ships to 38 countries and regions, including Germany, the United States, the United Kingdom, Japan, Singapore, the UAE, Brazil and Mexico. Trade terms offered are EXW, FOB, CIF, CFR, DDP and DAP, with payment by L/C, T/T, D/P or PayPal.
+Units ship in protective foam and a reinforced box, with accessories packed separately. The box contains 1 x Digital Signage Display, 1 x Power Cable, 1 x Remote Control (if applicable), 1 x Mounting Kit (optional) and 1 x User Manual. Check the parcel before signing and report any damage within 48 hours.
 
 ## Gallery
 
-![HYY-TS-A3270-69 27 Inch Wall Mounted Interactive Kiosk with 2560*1440 IPS Touch Display](images/05-back.jpg) ![HYY-TS-A3270-69 27 Inch Wall Mounted Interactive Kiosk with 2560*1440 IPS Touch Display](images/06-back.jpg)
+![HYY-TS-A3270-69 27-Inch Wall Mounted Digital Signage Kiosk with Capacitive Touch and 2560 x 1440 IPS Display](images/03-back.jpg) ![HYY-TS-A3270-69 27-Inch Wall Mounted Digital Signage Kiosk with Capacitive Touch and 2560 x 1440 IPS Display](images/04-side.jpg) ![HYY-TS-A3270-69 27-Inch Wall Mounted Digital Signage Kiosk with Capacitive Touch and 2560 x 1440 IPS Display](images/06-application.jpg)
 
 ## Contact
 
@@ -109,4 +104,4 @@ EELLNET has exported since July 2014 and currently ships to 38 countries and reg
 
 ---
 
-[中文](README.zh-CN.md) · Product information from the official website: [www.eellnet.com/products/interactive-kiosk/hyy-ts-a3270-69-wall-mounted-interactive-kiosk](https://www.eellnet.com/products/interactive-kiosk/hyy-ts-a3270-69-wall-mounted-interactive-kiosk?utm_source=github&utm_medium=referral&utm_campaign=products)
+[中文](README.zh-CN.md) · Product information from the official website: [www.eellnetsignage.com/products/interactive-kiosk/hyy-ts-a3270-69-wall-mounted-digital-signage-kiosk](https://www.eellnetsignage.com/products/interactive-kiosk/hyy-ts-a3270-69-wall-mounted-digital-signage-kiosk?utm_source=github&utm_medium=referral&utm_campaign=products)

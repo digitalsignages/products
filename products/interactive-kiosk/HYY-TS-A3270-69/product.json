@@ -2,8 +2,8 @@
   "model": "HYY-TS-A3270-69",
   "brand": "EELLNET",
   "name": {
-    "en": "HYY-TS-A3270-69 27 Inch Wall Mounted Interactive Kiosk with 2560*1440 IPS Touch Display",
-    "zh": "HYY-TS-A3270-69 27 inch 壁挂式互动终端，配备 2560*1440 IPS 触控显示屏"
+    "en": "HYY-TS-A3270-69 27-Inch Wall Mounted Digital Signage Kiosk with Capacitive Touch and 2560 x 1440 IPS Display",
+    "zh": "HYY-TS-A3270-69 27 英寸壁挂式数字标牌一体机，电容触控，2560 x 1440 IPS 显示屏"
   },
   "category": {
     "key": "interactive-kiosk",
@@ -11,8 +11,8 @@
     "zh": "触摸一体机"
   },
   "url": {
-    "en": "https://www.eellnet.com/products/interactive-kiosk/hyy-ts-a3270-69-wall-mounted-interactive-kiosk?utm_source=github&utm_medium=referral&utm_campaign=products",
-    "zh": "https://www.eellnet.com/zh/products/interactive-kiosk/hyy-ts-a3270-69-wall-mounted-interactive-kiosk?utm_source=github&utm_medium=referral&utm_campaign=products"
+    "en": "https://www.eellnetsignage.com/products/interactive-kiosk/hyy-ts-a3270-69-wall-mounted-digital-signage-kiosk?utm_source=github&utm_medium=referral&utm_campaign=products",
+    "zh": "https://www.eellnetsignage.com/zh/products/interactive-kiosk/hyy-ts-a3270-69-wall-mounted-digital-signage-kiosk?utm_source=github&utm_medium=referral&utm_campaign=products"
   },
   "specs": {
     "en": [
@@ -42,7 +42,7 @@
       },
       {
         "key": "Viewing Angle",
-        "value": "178°(H/V) °"
+        "value": "178/178 °"
       },
       {
         "key": "Touch Type",
@@ -70,11 +70,15 @@
       },
       {
         "key": "Interfaces",
-        "value": "HDMI output×1, USB 3.0×1, USB 2.0×1, USB2.0 OTG×1, RJ45 Ethernet×1, 3.5mm earphone×1, DC12V input"
+        "value": "HDMI×1, USB3.0×1, USB2.0×1, RJ45×1, 3.5mm earphone, DC12V input"
       },
       {
         "key": "Power Supply",
         "value": "DC12V-5A input"
+      },
+      {
+        "key": "Dimensions",
+        "value": "643.6x382x55.7 mm"
       },
       {
         "key": "Installation",
@@ -112,7 +116,7 @@
       },
       {
         "key": "可视角度",
-        "value": "178°(H/V) °"
+        "value": "178/178 °"
       },
       {
         "key": "触摸类型",
@@ -140,11 +144,15 @@
       },
       {
         "key": "接口",
-        "value": "HDMI output×1, USB 3.0×1, USB 2.0×1, USB2.0 OTG×1, RJ45 Ethernet×1, 3.5mm earphone×1, DC12V input"
+        "value": "HDMI×1, USB3.0×1, USB2.0×1, RJ45×1, 3.5mm earphone, DC12V input"
       },
       {
         "key": "电源",
         "value": "DC12V-5A input"
+      },
+      {
+        "key": "整机尺寸",
+        "value": "643.6x382x55.7 mm"
       },
       {
         "key": "安装方式",
@@ -159,9 +167,10 @@
   "images": [
     "images/01-front.jpg",
     "images/02-front.jpg",
-    "images/03-front.jpg",
-    "images/04-back.jpg",
-    "images/05-back.jpg",
-    "images/06-back.jpg"
+    "images/03-back.jpg",
+    "images/04-side.jpg",
+    "images/05-dimension.jpg",
+    "images/06-application.jpg",
+    "images/07-ports.jpg"
   ]
 }
