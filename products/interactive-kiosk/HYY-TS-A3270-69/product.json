@@ -1,0 +1,167 @@
+{
+  "model": "HYY-TS-A3270-69",
+  "brand": "EELLNET",
+  "name": {
+    "en": "HYY-TS-A3270-69 27 Inch Wall Mounted Interactive Kiosk with 2560*1440 IPS Touch Display",
+    "zh": "HYY-TS-A3270-69 27 inch 壁挂式互动终端，配备 2560*1440 IPS 触控显示屏"
+  },
+  "category": {
+    "key": "interactive-kiosk",
+    "en": "Interactive Kiosks",
+    "zh": "触摸一体机"
+  },
+  "url": {
+    "en": "https://www.eellnet.com/products/interactive-kiosk/hyy-ts-a3270-69-wall-mounted-interactive-kiosk?utm_source=github&utm_medium=referral&utm_campaign=products",
+    "zh": "https://www.eellnet.com/zh/products/interactive-kiosk/hyy-ts-a3270-69-wall-mounted-interactive-kiosk?utm_source=github&utm_medium=referral&utm_campaign=products"
+  },
+  "specs": {
+    "en": [
+      {
+        "key": "Screen Size",
+        "value": "27 inch"
+      },
+      {
+        "key": "Resolution",
+        "value": "2560*1440"
+      },
+      {
+        "key": "Aspect Ratio",
+        "value": "16:9"
+      },
+      {
+        "key": "Panel Type",
+        "value": "IPS"
+      },
+      {
+        "key": "Brightness",
+        "value": "300 nits"
+      },
+      {
+        "key": "Contrast Ratio",
+        "value": "1000：1"
+      },
+      {
+        "key": "Viewing Angle",
+        "value": "178°(H/V) °"
+      },
+      {
+        "key": "Touch Type",
+        "value": "Capacitive Touch"
+      },
+      {
+        "key": "Operating System",
+        "value": "Android"
+      },
+      {
+        "key": "CPU",
+        "value": "Quad-core Cortex-A53 + Quad-core Cortex-A72, RK3576"
+      },
+      {
+        "key": "Memory (RAM)",
+        "value": "4GB"
+      },
+      {
+        "key": "Storage",
+        "value": "32GB"
+      },
+      {
+        "key": "Speakers",
+        "value": "2*5W"
+      },
+      {
+        "key": "Interfaces",
+        "value": "HDMI output×1, USB 3.0×1, USB 2.0×1, USB2.0 OTG×1, RJ45 Ethernet×1, 3.5mm earphone×1, DC12V input"
+      },
+      {
+        "key": "Power Supply",
+        "value": "DC12V-5A input"
+      },
+      {
+        "key": "Installation",
+        "value": "Wall Mounted"
+      },
+      {
+        "key": "Operating Temperature",
+        "value": "0~40 ℃"
+      }
+    ],
+    "zh": [
+      {
+        "key": "屏幕尺寸",
+        "value": "27 inch"
+      },
+      {
+        "key": "分辨率",
+        "value": "2560*1440"
+      },
+      {
+        "key": "屏幕比例",
+        "value": "16:9"
+      },
+      {
+        "key": "面板类型",
+        "value": "IPS"
+      },
+      {
+        "key": "亮度",
+        "value": "300 nits"
+      },
+      {
+        "key": "对比度",
+        "value": "1000：1"
+      },
+      {
+        "key": "可视角度",
+        "value": "178°(H/V) °"
+      },
+      {
+        "key": "触摸类型",
+        "value": "电容触摸"
+      },
+      {
+        "key": "操作系统",
+        "value": "安卓"
+      },
+      {
+        "key": "处理器",
+        "value": "Quad-core Cortex-A53 + Quad-core Cortex-A72, RK3576"
+      },
+      {
+        "key": "内存",
+        "value": "4GB"
+      },
+      {
+        "key": "存储",
+        "value": "32GB"
+      },
+      {
+        "key": "喇叭",
+        "value": "2*5W"
+      },
+      {
+        "key": "接口",
+        "value": "HDMI output×1, USB 3.0×1, USB 2.0×1, USB2.0 OTG×1, RJ45 Ethernet×1, 3.5mm earphone×1, DC12V input"
+      },
+      {
+        "key": "电源",
+        "value": "DC12V-5A input"
+      },
+      {
+        "key": "安装方式",
+        "value": "壁挂"
+      },
+      {
+        "key": "工作温度",
+        "value": "0~40 ℃"
+      }
+    ]
+  },
+  "images": [
+    "images/01-front.jpg",
+    "images/02-front.jpg",
+    "images/03-front.jpg",
+    "images/04-back.jpg",
+    "images/05-back.jpg",
+    "images/06-back.jpg"
+  ]
+}
